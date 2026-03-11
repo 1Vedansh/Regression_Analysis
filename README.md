@@ -4,6 +4,7 @@ This repository contains the code and datasets for a predictive regression model
 
 ## Project Contents
 
+* Problem_Statement.pdf : The original questions and goals provided for this project.
 * extractData.py : Script used to clean and prepare the raw data.
 * regression.py : Main script that builds the regression model and generates predictions.
 * Data Files : Contains the raw training data, processed datasets, and final predicted counts.
